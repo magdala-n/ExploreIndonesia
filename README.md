@@ -66,5 +66,3 @@ This project is licensed under the MIT License.
 3. *Choose a location* to save the file.
 4. *Name the file "README.md"* (without the quotes).
 5. *Click "Save"*. 
-
-You now have a README.md file that you can use for your OCR project.

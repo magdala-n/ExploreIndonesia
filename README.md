@@ -56,13 +56,3 @@ Model Saving and Loading
 Prediction
 * The script demonstrates how to use the trained model to predict characters in an image.
 * It extracts characters using image processing techniques and displays the predicted text along with confidence scores and bounding box positions.
-
-License
-This project is licensed under the MIT License.
-*To download this file:*
-
-1. *Right-click* on the text above.
-2. *Select "Save as"* or "Save link as".
-3. *Choose a location* to save the file.
-4. *Name the file "README.md"* (without the quotes).
-5. *Click "Save"*. 

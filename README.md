@@ -57,11 +57,7 @@ Prediction
 * The script demonstrates how to use the trained model to predict characters in an image.
 * It extracts characters using image processing techniques and displays the predicted text along with confidence scores and bounding box positions.
 
-Contributing
-Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
-
 License
-
 This project is licensed under the MIT License.
 *To download this file:*
 
